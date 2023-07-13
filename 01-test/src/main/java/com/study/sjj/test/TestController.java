@@ -8,7 +8,7 @@ public class TestController {
 
     @RequestMapping("test")
     public String test(){
-        return "集成成功";
+        return "集成成功1";
     }
 
 }
